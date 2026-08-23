@@ -127,10 +127,10 @@ I'm a Computer Science and Engineering graduate passionate about building **full
 
 <p align="left">
   <a href="https://numpy.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+    <img src="https://github.com/ghosh0/skill-icons/blob/main/icons/Numpy-Dark.svg" width="40" height="40" alt="NumPy"/>
   </a>
   <a href="https://pandas.pydata.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+    <img src="https://github.com/ghosh0/skill-icons/blob/main/icons/Pandas.svg" width="40" height="40" alt="Pandas"/>
   </a>
   <a href="https://matplotlib.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
@@ -139,13 +139,13 @@ I'm a Computer Science and Engineering graduate passionate about building **full
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
   </a>
   <a href="https://scikit-learn.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+    <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn" />
   </a>
   <a href="https://www.tensorflow.org/">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
   </a>
   <a href="https://pytorch.org/">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
   </a>
   <a href="https://powerbi.microsoft.com/">
     <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
@@ -161,46 +161,46 @@ I'm a Computer Science and Engineering graduate passionate about building **full
 
 <p align="left">
   <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/>
+    <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
   </a>
   <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
   <a href="https://gitlab.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
+    <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="GitLab" />
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+    <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
   </a>
   <a href="https://kubernetes.io/">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" />
   </a>
   <a href="https://helm.sh/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40" height="40" alt="Helm"/>
   </a>
   <a href="https://www.terraform.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+    <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" />
   </a>
   <a href="https://www.jenkins.io/">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/>
+    <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" />
   </a>
   <a href="https://nginx.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
+    <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" />
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+    <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
   </a>
   <a href="https://prometheus.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus"/>
+    <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus" />
   </a>
   <a href="https://grafana.com/">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/>
+    <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana" />
   </a>
   <a href="https://argo-cd.readthedocs.io/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="40" height="40" alt="Argo CD"/>
