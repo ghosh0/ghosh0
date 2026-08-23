@@ -182,7 +182,7 @@ I'm a Computer Science and Engineering graduate passionate about building **full
     <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" />
   </a>
   <a href="https://helm.sh/">
-    <img src="https://github.com/ghosh0/skill-icons/blob/main/icons/Helm.svg" width="40" height="40" alt="Helm"/>
+    <img src="https://github.com/ghosh0/skill-icons/blob/main/icons/Helm-Light.svg" width="40" height="40" alt="Helm"/>
   </a>
   <a href="https://www.terraform.io/">
     <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" />
