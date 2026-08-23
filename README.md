@@ -203,7 +203,7 @@ I'm a Computer Science and Engineering graduate passionate about building **full
     <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana" />
   </a>
   <a href="https://argo-cd.readthedocs.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="40" height="40" alt="Argo CD"/>
+    <img src="https://github.com/ghosh0/skill-icons/blob/main/icons/ArgoCD-Dark.svg" width="40" height="40" alt="Argo CD"/>
   </a>
 </p>
 
