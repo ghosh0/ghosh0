@@ -32,10 +32,9 @@ Full-Stack Developer
 I'm a Computer Science and Engineering graduate passionate about building **full-stack applications, AI-powered products, and scalable software systems**.
 
 * 🔭 Currently working on **AI-powered full-stack applications**
-* 🌱 Currently learning **Machine Learning, Deep Learning, AI Engineering & DevOps**
+* 🌱 Currently learning **AI Engineering and DevOps**
 * 💻 Strong interest in **React, Next.js, Node.js and modern web technologies**
-* 🤖 Exploring **Machine Learning, Deep Learning and Computer Vision**
-* ☁️ Learning **Cloud Computing, Docker, Kubernetes and CI/CD**
+* ☁️ Learning **Cloud Computing(AWS) and Docker**
 * 🧠 Practicing **Data Structures & Algorithms and Competitive Programming**
 * 🎯 Interested in building products that combine **AI + Software Engineering**
 * 📫 Reach me at **[rg798962@gmail.com](mailto:rg798962@gmail.com)**
@@ -97,12 +96,6 @@ I'm a Computer Science and Engineering graduate passionate about building **full
   <a href="https://expressjs.com/">
     <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" />
   </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" />
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />
-  </a>
 </p>
 
 ---
@@ -123,40 +116,6 @@ I'm a Computer Science and Engineering graduate passionate about building **full
 
 ---
 
-## AI / ML & Data Science
-
-<p align="left">
-  <a href="https://numpy.org/">
-    <img src="https://github.com/ghosh0/skill-icons/blob/main/icons/Numpy-Dark.svg" width="40" height="40" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://github.com/ghosh0/skill-icons/blob/main/icons/Pandas.svg" width="40" height="40" alt="Pandas"/>
-  </a>
-  <a href="https://matplotlib.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
-  </a>
-  <a href="https://seaborn.pydata.org/">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-  </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn" />
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
-  </a>
-  <a href="https://pytorch.org/">
-    <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
-  </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
-  </a>
-  <a href="https://www.tableau.com/">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="Tableau"/>
-  </a>
-</p>
-
----
-
 ## DevOps & Cloud
 
 <p align="left">
@@ -172,38 +131,11 @@ I'm a Computer Science and Engineering graduate passionate about building **full
   <a href="https://github.com/">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
-  <a href="https://gitlab.com/">
-    <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="GitLab" />
-  </a>
   <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
   </a>
-  <a href="https://kubernetes.io/">
-    <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" />
-  </a>
-  <a href="https://helm.sh/">
-    <img src="https://github.com/ghosh0/skill-icons/blob/main/icons/Helm-Light.svg" width="40" height="40" alt="Helm"/>
-  </a>
-  <a href="https://www.terraform.io/">
-    <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" />
-  </a>
-  <a href="https://www.jenkins.io/">
-    <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" />
-  </a>
-  <a href="https://nginx.org/">
-    <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" />
-  </a>
   <a href="https://aws.amazon.com/">
     <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
-  </a>
-  <a href="https://prometheus.io/">
-    <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus" />
-  </a>
-  <a href="https://grafana.com/">
-    <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana" />
-  </a>
-  <a href="https://argo-cd.readthedocs.io/">
-    <img src="https://github.com/ghosh0/skill-icons/blob/main/icons/ArgoCD-Dark.svg" width="40" height="40" alt="Argo CD"/>
   </a>
 </p>
 
