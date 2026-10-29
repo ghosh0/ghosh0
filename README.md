@@ -239,43 +239,10 @@ I'm continuously building and experimenting with new projects across software en
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghosh0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosh0&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 # GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ghosh0&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghosh0&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-# GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghosh0/ghosh0/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghosh0&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
